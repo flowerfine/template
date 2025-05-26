@@ -52,7 +52,15 @@
     </distributionManagement>
 
     <modules>
-
+        <module>template-dependencies</module>
+        <module>template-spring-boot-parent</module>
+        <module>template-dist</module>
+        <module>template-server</module>
+        <module>template-framework</module>
+        <module>template-support</module>
+        <module>template-modules</module>
+        <module>template-plugins</module>
+        <module>template-ui</module>
     </modules>
 
     <properties>
