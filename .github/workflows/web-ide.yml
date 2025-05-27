@@ -22,7 +22,7 @@ on:
 
 jobs:
   web-ide:
-    if: github.repository == 'flowerfine/flinkful'
+    if: github.repository == 'flowerfine/template'
     runs-on: ubuntu-latest
     steps:
       - name: Web-IDE Pull Request Check
